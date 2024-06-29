@@ -1,11 +1,3 @@
-<!--
- * @Description: 
- * @Version: 1.0
- * @Autor: Li Cheng
- * @Date: 2024-06-24 13:42:02
- * @LastEditors: Li Cheng
- * @LastEditTime: 2024-06-24 13:50:34
--->
 
 <script setup>
 import { ref, computed } from 'vue';
